@@ -1,5 +1,6 @@
-# javascript-basics-for-beginners
+#JavaScript Basics for beginners 
 JavaScript - Master the Fundamentals in 6 Hours - Solutions
+[Link](https://www.udemy.com/course/javascript-basics-for-beginners/)
 ##Introduction
 [Index](/Introduction/index.html)
 ##Basics
@@ -23,4 +24,26 @@ JavaScript - Master the Fundamentals in 6 Hours - Solutions
 9. [Operator Precedence](/Operators/operator-precedence.js)
 10. [Quiz](Operators/quiz.js)
 11. [Exercise](Operators/exercise.js)
+##Control Flow
+1. [If...else](/Control%20Flow/if-else.js)
+2. [Switch...case](/Control%20Flow/switch-case.js)
+3. [For](/Control%20Flow/for.js)
+4. [While](/Control%20Flow/while.js)
+5. [Do...While](/Control%20Flow/do-while.js)
+6. [Infinite...Loops](/Control%20Flow/infinite-loops.js)
+7. [For...in](/Control%20Flow/for-in.js)
+9. [For...of](/Control%20Flow/for-of.js)
+10. [Break and Continue](/Control%20Flow/for-of.js)
+###Exercises
+1. [Max of two numbers](/Control%20Flow/ex-max-of-two-numbers.js)
+2. [Landscape or Portrait](/Control%20Flow/ex-landscape-or-portrait.js)
+3. [FizzBuzz](/Control%20Flow/ex-fizz-buzz.js)
+4. [Demerit Points](/Control%20Flow/ex-demerit-points.js)
+5. [Even and Odd](/Control%20Flow/ex-even-and-odd.js)
+6. [Count Truthy](/Control%20Flow/ex-count-truthy.js)
+7. [String Properties](/Control%20Flow/ex-string-properties.js)
+8. [Sum of Multiples 3 and 5](/Control%20Flow/ex-sum-of-multiples-3-and-5.js)
+9. [Grade](/Control%20Flow/ex-grade.js)
+10. [Stars](/Control%20Flow/ex-stars.js)
+11. [Prime Numbers](/Control%20Flow/ex-prime-numbers.js)
 
