@@ -46,4 +46,24 @@ JavaScript - Master the Fundamentals in 6 Hours - Solutions
 9. [Grade](/Control%20Flow/ex-grade.js)
 10. [Stars](/Control%20Flow/ex-stars.js)
 11. [Prime Numbers](/Control%20Flow/ex-prime-numbers.js)
-
+##Objects
+1. [Basics](/Objects/basics.js)
+2. [Factory Functions](/Objects/factory-functions.js)
+3. [Constructor Functions](/Objects/constructor-functions.js)
+4. [Dynamic Nature of Objects](/Objects/dynamic-nature-of-objects.js)
+5. [Constructor Property](/Objects/constructor-property.js)
+6. [Functions are Objects](/Objects/functions-are-objects.js)
+7. [Value vs. Reference Types](/Objects/value-vs-reference-types.js)
+8. [Enumerating Properties of an Object](/Objects/enumerating-properties-of-an-object.js)
+9. [Cloning an Object](/Objects/cloning-an-object.js)
+10. [Garbage Collection](/Objects/garbage-collection.js)
+11. [Math](Objects/math.js)
+12. [String](Objects/string.js)
+13. [Template Literals](Objects/template-literals.js)
+14. [Date](Objects/date.js)
+###Exercises
+1. [Address Object](/Objects/ex-address-object.js)
+2. [Factory and Constructor Function](/Objects/ex-factory-and-constructor-function.js);
+3. [Object Equality](/Objects/ex-object-equality.js)
+4. [Blog Post Object](/Objects/ex-blog-post-object.js)
+5. [Price Range Objects](/Objects/ex-price-range-objects.js)
