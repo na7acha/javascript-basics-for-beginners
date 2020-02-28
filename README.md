@@ -67,3 +67,12 @@ JavaScript - Master the Fundamentals in 6 Hours - Solutions
 3. [Object Equality](/Objects/ex-object-equality.js)
 4. [Blog Post Object](/Objects/ex-blog-post-object.js)
 5. [Price Range Objects](/Objects/ex-price-range-objects.js)
+##Arrays
+1. Introduction
+2. [Adding Elements](/Arrays/adding-elements.js)
+3. [Finding Elements (Primitives)](/Arrays/finding-elements-primitives.js)
+4. [Finding Elements (Reference Types)](/Arrays/finding-elements-reference-types.js)
+5. [Arrow Functions](/Arrays/arrow-functions.js)
+6. [Removing Elements](/Arrays/removing-elements.js)
+7. [Emptying an Array](/Arrays/emptying-an-array.js)
+8. [Combining and Slicing Arrays](/Arrays/combining-and-slicing-arrays.js)
